@@ -493,7 +493,7 @@ def SHA_2_512(message):
 # Input Message
 # ########################
 print("Enter File name with extenstion")
-print("Example2 file.txt")
+print("Example1 file.txt")
 print("Example2 C:/sha.txt")
 # input_file="testing message for hash if file input fail"
 input_file = input(">> ")
